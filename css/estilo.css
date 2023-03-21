@@ -139,6 +139,7 @@ img.depoimento {
 }
 #conteudo-caixa li a p {
     font-size: 10px;
+    color: black;
 }
 #conteudo-caixa li:hover {
     background-color: #ede9cc;
